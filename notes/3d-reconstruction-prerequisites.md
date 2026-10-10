@@ -182,6 +182,10 @@ summary: 讀懂 LingBot-Map／VGGT 這類模型需要的背景：Transformer 與
 
 ---
 
+## 延伸
+
+- 這些概念如何遷移到即時音樂協作（時鐘同步、效能證據、記憶體管理）：[串流系統的共通底層](streaming-systems-crossover.md)
+
 ## 建議閱讀順序
 
 1. **只想看懂 LingBot-Map：** A1 → A2 → B1 → B3 的 VGGT 段落 → A5 的 KV cache 和 StreamingLLM → 回頭讀 LingBot-Map。
