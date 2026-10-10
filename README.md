@@ -25,6 +25,8 @@
 
 也可以直接叫 Claude Code 幫忙：「把 <網址> 研究一下加進知識庫」，規則寫在 [CLAUDE.md](CLAUDE.md)。
 
+之後針對某篇的追問與討論，會整理成重點寫進該篇最下方的「討論紀錄」，依日期累積。
+
 ## 標籤慣例
 
 - 全小寫、用連字號：`3d-reconstruction`、`slam`、`llm-inference`

@@ -82,3 +82,7 @@ Oxford Spires 稀疏設定（320 張影格）：
 
 - 基礎：VGGT、DINOv2、FlashInfer
 - 同類串流方法：CUT3R、TTT3R、StreamVGGT、Stream3R、Wint3R
+
+## 討論紀錄
+
+<!-- 每次討論一個小節：### YYYY-MM-DD：主題 -->
